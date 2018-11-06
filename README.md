@@ -1,2 +1,3 @@
 # A-DATA-SET-FOR-COMPANY-SERVICES
-consists of the items sold by thr company
+consists of the items sold by the company
+I am a python developer, I love Machine Learning...
